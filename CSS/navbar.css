@@ -82,13 +82,13 @@
   float: left;
   margin-left: 15px;
   text-align: center;
-  line-height: 40px; /* Usado para centrar verticalmente el texto respecto a los iconos */
+  line-height: 40px; 
 }
 
 .nav-button {
   float: left;
   margin-left: 20px;
-  margin-top: 0px; /* Alineado con el margen del icono */
+  margin-top: 0px; 
   line-height: normal;
   font-size: 12px;
   background-color: rgb(216, 184, 2);
@@ -98,7 +98,7 @@
   border: none;
   border-radius: 9px;
   cursor: pointer;
-  transition: background-color 0.3s ease; /* Corregida la sintaxis de transition */
+  transition: background-color 0.3s ease; 
 }
 
 .nav-button:hover {
