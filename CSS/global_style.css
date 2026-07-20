@@ -8,6 +8,7 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
 }
 
 :root{
@@ -15,13 +16,6 @@ body{
   --secondary-color: #f2ead6;
 }
 
-
-h1, h2, h3, h4, h5, h6, p, a, span, button, textarea, div{
-  word-break: break-word;
-  font-family: "Open Sans", sans-serif;
-  font-optical-sizing: auto;
-
-}
 
 svg, img{
   width: 100%;

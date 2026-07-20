@@ -1,0 +1,46 @@
+/* HERO_IMG */
+.back-image{
+  background-image: url(/imgs/hero.jpeg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  width: 100%;
+  height: 500px;
+
+  text-align: left;
+  padding-top: 115px;
+  padding-left: 150px;
+  box-sizing: border-box;
+
+  color: white;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.hero-button{
+  margin-top: 10px; 
+  line-height: normal;
+  font-size: 12px;
+  background-color: rgb(225, 30, 205);
+  color: white;
+  padding: 10px 10px;
+  margin-right: 50px;
+  border: none;
+  border-radius: 9px;
+  cursor: pointer;
+  transition: background-color 0.3s ease; 
+}
+
+.hero-button:hover{
+  background-color: rgb(167, 23, 153);
+}
+
+.next-button{
+  float: right;
+  text-align: right;
+  margin-right: 50px;
+  font-size: 10px;
+}

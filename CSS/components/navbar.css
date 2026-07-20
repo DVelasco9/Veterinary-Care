@@ -23,7 +23,7 @@
 
 .navbar-inner-links{
   float: left;
-  padding-left: 20px;
+  padding-left: 10px;
   overflow: hidden;
 }
 
@@ -33,7 +33,7 @@
 
 .navbar-links li{
   float: left;
-  margin-left: 20px;
+  margin-left: 10px;
   padding: 0px 12px;
 }
 
@@ -62,7 +62,7 @@
 .navbar-icon {
   float: left;
   /* align-items: center; <-- Eliminado, no funciona sin flex/grid */
-  margin-left: 20px;
+  margin-left: 50px;
   margin-top: 0px;
   background-color: rgba(100, 100, 100, 0.2); /* rgba es mejor para opacidad */
   width: 40px;
