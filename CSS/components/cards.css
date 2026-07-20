@@ -18,34 +18,47 @@
   margin-left: 50px;
   padding-left: 600px;
   font-size: 30px;
-  color: rgb(172, 29, 3);
+  color: rgb(108, 19, 4);
 }
 
-.card1{
+.card{
   float: left;
   width: 280px;
-  height: 200px;
+  height: 240px;
   margin-top: 50px;
   margin-left: 50px;
   background-color: white;
+  border-radius: 10px;
 }
 
-.card2{
-  float: left;
-  width: 280px;
-  height: 200px;
-  margin-top: 50px;
-  margin-left: 50px;
-  background-color: white;
-
+.card p{
+  padding-top: 15px;
+  padding-left: 20px;
+  color: darkred;
+  font-weight: bold;
 }
 
-.card3{
-  float: left;
-  width: 280px;
-  height: 200px;
-  margin-top: 50px;
-  margin-left: 50px;
-  background-color: white;
-
+.card .description{
+  padding-top: 15px;
+  padding-left: 20px;
+  color: gray;
+  font-weight: normal;
 }
+
+.animal-logo{
+  width: 75px;
+  height: 75px;
+  margin-left: 20px;
+  margin-top: 20px;
+  background-color: pink;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 70px
+}
+
+.animal-logo img{
+  width: 60%;
+  height: auto;
+  vertical-align: middle;
+}
+
